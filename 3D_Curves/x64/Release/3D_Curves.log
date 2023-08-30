@@ -1,0 +1,10 @@
+﻿  3D_Curves.cpp
+C:\Users\Alexander\source\repos\3D_Curves\3D_Curves\3D_Curves.cpp(38,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Curves3D.cpp
+  Ellipse3D.cpp
+  Создание кода
+  0 of 219 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  3D_Curves.vcxproj -> C:\Users\Alexander\source\repos\3D_Curves\x64\Release\3D_Curves.exe
